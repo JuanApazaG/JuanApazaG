@@ -1,7 +1,7 @@
 ### 👋 Hola, soy Juan Agustín
 
-📱 Desarrollador Junior móvil con Flutter  
-🎓 Estudiante de Ingeniería de Sistemas en la USFX  
+📱 Desarrollador IA Engineer
+🎓 Ing de Sistemas
 🚀 Apasionado por la tecnología y los datos  
 
 ---
