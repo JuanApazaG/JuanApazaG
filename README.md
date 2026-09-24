@@ -1,11 +1,11 @@
-### 👋 Hola, soy Juan Agustín
+### 👋 Hola, soy Agustín
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&width=600&lines=IA+Engineer+%7C+Full+Stack+Developer;Creador+de+Agentes+IA+Multicanal;Next.js+%7C+React+%7C+NestJS;LangGraph+%26+Automatizaci%C3%B3n)](https://git.io/typing-svg)
 
 🤖 **IA Engineer** especializado en agentes autónomos y automatización  
 🎓 Ing. de Sistemas  
 🚀 Apasionado por la tecnología y los datos  
-📍 Sucre, Bolivia  
+📍 Santa Cruz, Bolivia  
 
 ---
 
@@ -53,13 +53,13 @@
 
 ### 🤖 Lo que hago
 
-- 🧠 **Agentes IA multicanal** (WhatsApp, Messenger, web) con LangGraph
-- 🗣️ Agentes de voz con **ElevenLabs** + LLMs
-- ⚡ Automatización de flujos con **n8n** y **Zapier**
-- 🏗️ Apps full-stack con **Next.js + NestJS**, y prototipos rápidos con **Lovable**
-- 📊 Análisis y pipelines de datos con **Python**
-- 💬 Integraciones con Meta Graph API y Meta Developer
-- 🗄️ Bases de datos relacionales y NoSQL
+- **Agentes IA multicanal** (WhatsApp, Messenger, web) con LangGraph
+- Agentes de voz con **ElevenLabs** + LLMs
+- Automatización de flujos con **n8n** y **Zapier**
+- Apps full-stack con **Next.js + NestJS**, y prototipos rápidos con **Lovable**
+- Análisis y pipelines de datos con **Python**
+- Integraciones con Meta Graph API y Meta Developer
+- Bases de datos relacionales y NoSQL
 
 ---
 
